@@ -24,7 +24,8 @@
      - sudo cp index.html /var/www/html/
      - ![image](https://github.com/ShaLeeZ2002/CE341_ID1398/assets/149044605/d0442a4b-8687-4e9c-9da3-10bbcbca63e0)
   7. จากนั้นกลับมาที่ browser ที่ใส่ ip ของตัวเอง และรีเซ็ตหน้า จะปรากฎหน้าเว็บที่เขียน HTML ไว้จาก Repository
-     - ![image](https://github.com/ShaLeeZ2002/CE341_ID1398/assets/149044605/76bc04b4-67c8-47c5-a2c6-d572e23656c6)
+     - ![image](https://github.com/ShaLeeZ2002/CE341_ID1398/assets/149044605/46c8cd83-c389-47d6-bbd5-8a0542625ce9)
+
 
 
 
