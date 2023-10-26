@@ -1,3 +1,4 @@
+- ปล. ตอนแรกผมเขียนรหัส นศ. ผิดครับ แต่แก้ไว้แล้วแค่รูปสุดท้าย
 - การ Clone Repository ลงใน GitHub Desktop
 - 1. File > Clone repository
 ![image](https://github.com/ShaLeeZ2002/CE341_ID1398/assets/149044605/10c01abb-e112-437c-8f7f-27717b9f305e)
